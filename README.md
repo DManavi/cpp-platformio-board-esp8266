@@ -1,2 +1,3 @@
-# cpp-platformio-board-esp8266
-PlatformIO project template (ESP8266)
+# Neck angle monitoring system
+
+Monitor current neck angle

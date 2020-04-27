@@ -1,3 +1,1 @@
-# Neck angle monitoring system
-
-Monitor current neck angle
+# ESP8266 project template using PlatformIO
